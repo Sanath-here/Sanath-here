@@ -1,4 +1,4 @@
-# 😎 Sanath Lal — The Developer Who Fixes Things He Didn't Break
+# Sanath Lal — The Developer Who Fixes Things He Didn't Break
 
 Welcome to my GitHub profile — where ideas spawn faster than I can finish them, caffeine is an API, and every commit is either a masterpiece… or a cry for help.
 
