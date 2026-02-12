@@ -46,7 +46,7 @@ If the stats aren’t showing, assume they’re too powerful for your device.
 
 ---
 
-# 🎯 Mission 2025
+# 🎯 Mission 2026
 
 * Build AR/VR projects that bend reality
 * Finish at least ONE side project
