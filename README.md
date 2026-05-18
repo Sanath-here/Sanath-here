@@ -21,8 +21,8 @@ A multi-classed developer with maxed-out curiosity and zero points in "taking a 
 
 ### 🎯 Technical Stuff I Can Bend to My Will:
 
-* **Languages:** Java, Python, C++, C, Blueprints, HTML, CSS
-* **Game Tech:** Unity, Unreal Engine
+* **Languages:** Python, C, Blueprints, HTML, CSS
+* **Game Tech:** Unreal Engine
 * **3D Magic:** Blender
 * **Tools:** Git (my love-hate story), VS Code, Notion, Figma, kaggle, blahh.....blah....blahhh....
 
