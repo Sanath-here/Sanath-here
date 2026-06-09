@@ -66,7 +66,7 @@ If the stats aren’t showing, assume they’re too powerful for your device.
 
 # 🌐 Connect With Me
 
-* 💼 Portfolio: *Coming soon — this time I mean it.*
+* 💼 Portfolio: **[sanath_portfolio](https://sanath-lal-446449297996.asia-southeast1.run.app/)**
 * 📧 Email: **[sanath.lal2023@gmail.com](mailto:sanath.lal2023@gmail.com)**
 * 🐦 Twitter: **@sanath_l**
 
