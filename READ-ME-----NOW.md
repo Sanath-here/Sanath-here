@@ -1,4 +1,4 @@
-# Sanath Lal — The Developer Who Fixes Things He Didn't Break
+# Sanath Lal — The Developer Who Fixes Things He Didn't Break.........AND THEY ACTUALLY WORK!!!
 
 Welcome to my GitHub profile — where ideas spawn faster than I can finish them, caffeine is an API, and every commit is either a masterpiece… or a cry for help.
 
@@ -21,10 +21,11 @@ A multi-classed developer with maxed-out curiosity and zero points in "taking a 
 
 ### 🎯 Technical Stuff I Can Bend to My Will:
 
-* **Languages:** Python, C, Blueprints, HTML, CSS
-* **Game Tech:** Unreal Engine
-* **3D Magic:** Blender
-* **Tools:** Git (my love-hate story), VS Code, Notion, Figma, kaggle, blahh.....blah....blahhh....
+* **Languages:** Python, C, Blueprints, HTML, CSS, ReactJS, NodeJS, TypeScript
+* **Game Tech:** Unreal Engine, Unity
+* **3D Magic:** Blender, Substance 3D Painter
+* **Tools:** Git (my love-hate story), VS Code, Notion, Figma, kaggle, Collab
+* **AI Tools: ** Claude, Cursor, Antigravity, ChatGPT, Lightning AI, Lovable, Meshy AI, blahh.....blah....blahhh....
 
 ### 🎮 Skills I Pretend Are Normal:
 
@@ -49,7 +50,7 @@ If the stats aren’t showing, assume they’re too powerful for your device.
 # 🎯 Mission 2026
 
 * Build AR/VR projects that bend reality
-* Finish at least ONE side project
+* Finish at least ONE side project (CRY WITHIN.......My love!!)
 * Work with cool devs like **you** and cooler ideas
 * Touch grass (optional but recommended)
 
@@ -66,9 +67,9 @@ If the stats aren’t showing, assume they’re too powerful for your device.
 
 # 🌐 Connect With Me
 
-* 💼 Portfolio: **[sanath_portfolio](https://sanath-lal-446449297996.asia-southeast1.run.app/)**
+* 💼 Portfolio: **[sanath_portfolio](https://sanathgamifiedportfolio.vercel.app/)**
 * 📧 Email: **[sanath.lal2023@gmail.com](mailto:sanath.lal2023@gmail.com)**
-* 🐦 Twitter: **@sanath_l**
+* 💼 LinkedIN: **[Sanath-Lal-Shibu-Lekha](https://www.linkedin.com/in/sanath-lal-shibu-lekha-b1a543371/)**
 
 ---
 
